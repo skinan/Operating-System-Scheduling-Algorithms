@@ -1,4 +1,5 @@
 # Operating-System-Scheduling-Algorithms
 Operating System Scheduling Algorithms.
 
-You can make a contribution by submitting a pull request. 
+# Contribution
+You can make a contribution by forking the repository and submitting a pull request. 
